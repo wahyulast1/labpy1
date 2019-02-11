@@ -1,5 +1,8 @@
 # labpy1
-#INPUT DAN OUTPUT
+# INPUT DAN OUTPUT
+
+# OUTPUT
+![screenshot 1](https://user-images.githubusercontent.com/46735790/52548944-28744980-2e03-11e9-86ee-5d92fa5ee490.png)
 ● Ada tiga macam kondisional di Phython, yang dapat anda gunakan untuk membangun alur logika untuk program anda. Phyton memiliki statement if,if..else,dan if..elif..else.
 
 
